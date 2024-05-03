@@ -7,7 +7,7 @@ This project contains code implementing three machine learning algorithms: K-Nea
 
 **Dataset**
 
-The dataset used in this project is provided in the 'edited_crop_data.csv' file. The dataset has been preprocessed and cleaned for use in the machine learning algorithms. It contains relevant features and the target variable for training and testing the models.
+The dataset used in this project is provided in the 'edited_crops_data.xlsx' file. The dataset has been preprocessed and cleaned for use in the machine learning algorithms. It contains relevant features and the target variable for training and testing the models.
 
 **Algorithms Implemented**
 
